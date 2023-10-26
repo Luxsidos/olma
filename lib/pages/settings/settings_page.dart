@@ -18,16 +18,7 @@ class SettingPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Icon(
-              Icons.settings,
-              size: 56,
-              color: Colors.teal,
-            ),
-            const Icon(
-              Icons.sledding,
-              size: 34,
-              color: Colors.red,
-            ),
+            const Icon(Icons.search),
             const Icon(
               Icons.hail,
               size: 72,
